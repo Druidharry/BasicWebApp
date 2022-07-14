@@ -15,7 +15,6 @@ public class QueryProcessor {
            return "Zhiyuan";
         } else { // TODO extend the programm here
             return "";
-
         }
     }
 }
